@@ -22,20 +22,13 @@ Think of it as the **operational resilience rulebook** that forces banks, insure
 ---
 
 ## Key Requirements 🔑
+## DORA — Five Pillars
 
-```
-┌─────────────────────────────────────────────────┐
-│              DORA — 5 PILLARS                   │
-├──────────────┬──────────────┬──────────┬────────┤
-│ ICT RISK     │ INCIDENT     │ RESILIENCE│ THIRD │
-│ MANAGEMENT   │ REPORTING    │ TESTING   │ PARTY │
-│   🛡️        │   🚨         │  🧪       │ 🤝    │
-├──────────────┼──────────────┼──────────┼────────┤
-│ Governance   │ 24h alert    │ Scenario │ Due    │
-│ Frameworks   │ 72h report   │ Testing  │ Dilig. │
-│ Controls     │ 1mo final    │ TLPT     │ Exit   │
-└──────────────┴──────────────┴──────────┴────────┘
-```
+| 🛡️ ICT Risk Management | 🚨 Incident Reporting | 🧪 Resilience Testing | 🤝 Third-Party Risk | 🔄 Information Sharing |
+|---|---|---|---|---|
+| Governance | Initial alert | Scenario testing | Due diligence | Threat intelligence |
+| Risk frameworks | Incident report | Vulnerability assessments | Contract requirements | Indicators of compromise |
+| Security controls | Final report | TLPT | Exit strategies | Voluntary collaboration |
 
 ### 1. 🛡️ ICT Risk Management
 A documented, board-approved framework for identifying, protecting, detecting, responding, and recovering from ICT risks.
@@ -70,23 +63,22 @@ DORA and ISO 27001 are **not competitors** — they're **allies**. DORA sets the
 
 ### How the Connection Works
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│              DORA REQUIREMENTS                              │
-│                                                             │
-│  ICT Risk Mgmt  ──────────────────────────────────────┐     │
-│  Incident Reporting  ──────────────────────────────────┤     │
-│  Resilience Testing  ──────────────────────────────────┤     │
-│  Third-Party Risk  ────────────────────────────────────┤     │
-│                                                         │     │
-│                    ▼         ▼         ▼                │     │
-│              ┌─────────────────────────────────────┐    │     │
-│              │       ISO 27001 CONTROLS            │    │     │
-│              │  A.5.7  A.5.23  A.8.16  A.5.24 ...  │    │     │
-│              └─────────────────────────────────────┘    │     │
-└─────────────────────────────────────────────────────────────┘
-```
+## DORA Requirements and ISO 27001 Controls
 
+| DORA requirements | Related ISO/IEC 27001 controls |
+|---|---|
+| ICT risk management | A.5.7 — Threat intelligence |
+| Incident reporting | A.5.24 — Incident management planning and preparation |
+| Digital operational resilience testing | A.8.16 — Monitoring activities |
+| ICT third-party risk management | A.5.23 — Security for the use of cloud services |
+
+### Relationship
+
+**DORA requirements**  
+⬇  
+**Supported by ISO/IEC 27001 controls:** `A.5.7` · `A.5.23` · `A.8.16` · `A.5.24` · `…`
+
+> **Important:** ISO 27001 controls can support DORA compliance, but ISO 27001 certification alone does not guarantee full DORA compliance.
 ### 📌 DORA — ICT Risk Management → ISO 27001 Clauses 4–6
 
 | DORA Requirement | ISO 27001 Connection |
