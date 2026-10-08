@@ -15,10 +15,14 @@
 
  ## 📖 Read the Guides
 
-- [ISO/IEC 27001 — Information Security Management](./iso-27001.md)
+## 📖 Frameworks Covered
+
 - [DORA — Digital Operational Resilience](./dora.md)
-- [NIS2 — Cybersecurity for Critical Sectors](./nis2.md)
+- [EU AI Act — Artificial Intelligence Regulation](./eu-ai-act.md)
+- [GDPR — General Data Protection Regulation](./gdpr.md)
+- [ISO/IEC 27001 — Information Security Management](./iso-27001.md)
 - [ISO 27001 vs DORA vs NIS2 — Comparison](./comparison.md)
+- [NIS2 — Cybersecurity for Critical Sectors](./nis2.md)
 
 
 
