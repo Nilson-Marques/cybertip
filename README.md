@@ -16,7 +16,7 @@
  ## 📖 Read the Guides
 
 - [ISO/IEC 27001 — Information Security Management](./iso-27001.html)
-- [DORA — Digital Operational Resilience](./dora.html)
+- [DORA — Digital Operational Resilience](./dora.md)
 - [NIS2 — Cybersecurity for Critical Sectors](./nis2.html)
 - [ISO 27001 vs DORA vs NIS2 — Comparison](./comparison.html)
 
