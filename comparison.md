@@ -1,6 +1,5 @@
-Here is the comparison page with links to the individual guides:
 
-```markdown
+
 # ISO 27001 vs DORA vs NIS2
 
 These three frameworks improve cybersecurity and operational resilience, but they have different purposes and legal effects.
@@ -20,4 +19,4 @@ These three frameworks improve cybersecurity and operational resilience, but the
 ISO 27001 certification can help an organization demonstrate good security practices, but it does not automatically prove complete compliance with DORA or NIS2.
 
 [← Return to the CyberTip homepage](./)
-```
+
