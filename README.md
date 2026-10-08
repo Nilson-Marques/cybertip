@@ -86,3 +86,5 @@ This project is for educational purposes. Content is based on publicly available
 - [ISO/IEC 27001](https://www.iso.org/standard/27001)
 - [DORA — Regulation (EU) 2022/2554](https://eur-lex.europa.eu/eli/reg/2022/2554)
 - [NIS2 — Directive (EU) 2022/2555](https://eur-lex.europa.eu/eli/dir/2022/2555)
+- [GDPR — Regulation (EU) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679)
+- [EU AI Act — Regulation (EU) 2024/1689](https://eur-lex.europa.eu/eli/reg/2024/1689)
