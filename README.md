@@ -44,13 +44,14 @@
 |------|-------------|
 | `_config.yml` | Site configuration (Jekyll theme and metadata) |
 | `README.md` | This file |
-| `iso-27001.md` | ISO 27001 explained simply |
 | `dora.md` | DORA explained simply |
+| `eu-ai-act.md` | EU AI Act explained simply |
+| `gdpr.md` | GDPR explained simply |
+| `iso-27001.md` | ISO 27001 explained simply |
 | `nis2.md` | NIS2 explained simply |
 | `comparison.md` | ISO 27001 vs DORA vs NIS2 |
 
 ---
-
 ## 🚀 How to Use
 
 1. Read the guides in the order above, or jump to the topic you need.
