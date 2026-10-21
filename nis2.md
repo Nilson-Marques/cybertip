@@ -51,22 +51,19 @@ Think of it as the **EU's baseline cybersecurity law** that forces critical orga
 
 Article 21 defines **minimum cybersecurity risk management measures**. These are the **"what"** — not the "how." You decide the implementation; you must achieve the objective .
 
-```
-┌─────────────────────────────────────────────────┐
-│         ARTICLE 21 — 10 CORE MEASURES           │
-├─────────────────────────────────────────────────┤
-│  (a) Risk analysis policies                     │
-│  (b) Incident handling                          │
-│  (c) Business continuity                        │
-│  (d) Supply chain security                      │
-│  (e) Secure acquisition & development           │
-│  (f) Effectiveness assessment                   │
-│  (g) Cyber hygiene & training                   │
-│  (h) Cryptography policies                      │
-│  (i) HR security, access control, asset mgmt    │
-│  (j) MFA, secure communications                 │
-└─────────────────────────────────────────────────┘
-```
+### NIS2 Article 21 — 10 Core Measures
+
+1. **(a)** Risk analysis policies  
+2. **(b)** Incident handling  
+3. **(c)** Business continuity  
+4. **(d)** Supply chain security  
+5. **(e)** Secure acquisition and development  
+6. **(f)** Assessment of the effectiveness of security measures  
+7. **(g)** Cyber hygiene and training  
+8. **(h)** Cryptography policies  
+9. **(i)** Human resources security, access control, and asset management  
+10. **(j)** Multi-factor authentication (MFA) and secure communications  
+
 
 ### 1. 📋 Risk Analysis Policies (Article 21a)
 Documented policies for analyzing risks to your network and information systems. This is the **foundation** — everything else flows from here.
@@ -113,24 +110,20 @@ People, permissions, and inventory. Who has access to what, and what assets do y
 NIS2 Article 21 and ISO 27001 are **not competitors** — they're **allies**. NIS2 sets the **legal requirement**; ISO 27001 provides the **management system** to achieve it .
 
 ### How the Connection Works
+### NIS2 Article 21 and ISO 27001
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│              NIS2 ARTICLE 21 REQUIREMENTS                   │
-│                                                             │
-│  (a) Risk Analysis  ───────────────────────────────────┐    │
-│  (b) Incident Handling  ───────────────────────────────┤    │
-│  (c) Business Continuity  ─────────────────────────────┤    │
-│  (d) Supply Chain  ────────────────────────────────────┤    │
-│  (j) MFA & Comms  ─────────────────────────────────────┤    │
-│                                                         │    │
-│                    ▼         ▼         ▼                │    │
-│              ┌─────────────────────────────────────┐    │    │
-│              │       ISO 27001 CONTROLS            │    │    │
-│              │  A.5.1  A.5.24  A.5.29  A.5.19 ...  │    │    │
-│              └─────────────────────────────────────┘    │    │
-└─────────────────────────────────────────────────────────────┘
-```
+The NIS2 requirements can be supported by relevant ISO 27001 controls. Examples shown in your diagram include:
+
+| NIS2 Article 21 measures | Example ISO 27001 controls |
+|---|---|
+| Risk analysis | A.5.1 |
+| Incident handling | A.5.24 |
+| Business continuity | A.5.29 |
+| Supply chain security | A.5.19 |
+| MFA and secure communications | Relevant controls, depending on the specific requirement |
+
+*The control references are examples; map each requirement to controls that fit the organisation’s risks and implementation.*
+
 
 ### 📌 NIS2 (a) Risk Analysis → ISO 27001 Clauses 5, 6, 8
 
