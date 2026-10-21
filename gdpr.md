@@ -52,17 +52,17 @@ Think of it as the **rulebook for handling personal data** — who can collect i
 GDPR gives people **control over their data**. These are the rights you must uphold:
 
 ```
-┌─────────────────────────────────────────────────┐
-│              DATA SUBJECT RIGHTS                │
-├─────────────────────────────────────────────────┤
-│  📋 Right to be Informed     → Know how data is used │
-│  👁️ Right of Access          → See what data you have │
-│  ✏️ Right to Rectification   → Correct wrong data    │
-│  🗑️ Right to Erasure         → "Right to be forgotten" │
+┌───────────────────────────────────────────────────────────┐
+│              DATA SUBJECT RIGHTS                             │
+├───────────────────────────────────────────────────────────┐
+│  📋 Right to be Informed     → Know how data is used        │
+│  👁️ Right of Access          → See what data you have     │
+│  ✏️ Right to Rectification   → Correct wrong data         │
+│  🗑️ Right to Erasure         → "Right to be forgotten"    │
 │  📦 Right to Portability     → Move data to another provider │
-│  🚫 Right to Object          → Stop processing       │
-│  ⏸️ Right to Restrict        → Limit how data is used │
-└─────────────────────────────────────────────────┘
+│  🚫 Right to Object          → Stop processing            │
+│  ⏸️ Right to Restrict        → Limit how data is used     │
+└─────────────────────────────────────────────────────────── ┘
 ```
 
 > 📌 These rights must be fulfilled **free of charge** and **within one month** (extendable by two months for complex requests).
