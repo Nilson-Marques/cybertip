@@ -12,17 +12,15 @@ Think of it as the **EU's baseline cybersecurity law** that forces critical orga
 
 **If your organization operates in a critical sector and meets size thresholds, yes.**
 
-```
-┌─────────────────────────────────────────────────┐
-│              NIS2 SCOPE CHECK                   │
-├─────────────────────────────────────────────────┤
-│  1. SECTOR?    →  Annex I or Annex II          │
-│  2. SIZE?      →  Medium or Large enterprise   │
-│  3. LOCATION?  →  Operating in the EU          │
-│                                                 │
-│  ALL THREE = YOU'RE IN SCOPE ✅                 │
-└─────────────────────────────────────────────────┘
-```
+### NIS2 Scope Check
+
+| Check | Question | Requirement |
+|---|---|---|
+| 1. Sector | Is the organisation in Annex I or Annex II? | Yes |
+| 2. Size | Is it a medium or large enterprise? | Yes |
+| 3. Location | Does it operate in the EU? | Yes |
+
+**If all three apply, the organisation may be in scope of NIS2.** ✅
 
 ### The Two Annexes
 
